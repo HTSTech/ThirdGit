@@ -35,7 +35,7 @@
   
     return (
       <div id='HomeID'>
-        <body id="igsx"><div id="irr8">Home Page Pages</div></body>
+        <body id="igsx"><div id="irr8">Home Page Pages 2</div></body>
         <style>
           * { box-sizing: border-box; } body {margin: 0;}#irr8{padding:10px;}
         </style>
